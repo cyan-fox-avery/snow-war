@@ -20,6 +20,8 @@ Built on the earlier `playlist-research.md` (58 tracks, 2002–2009) plus fresh 
 2. **Harry Potter mania** — film Nov 16, 2001 (highest-grossing film of the year); book-series playground games (sorting hats, house rivalries) fused with the trading-card habit.
 3. **Pokémon still reigning** — Gold/Silver/Crystal era; cards remained the playground currency and the #1 recess argument.
 
+*Live-winter note: the Salt Lake City Olympics (Feb 2002) — men's AND women's hockey gold, the first in 50 years — happened DURING the 2001 anchor's winter, not before it. Playground hockey fever, live.*
+
 ---
 
 ## 2002 (winter 2002–03)
@@ -34,7 +36,7 @@ Built on the earlier `playlist-research.md` (58 tracks, 2002–2009) plus fresh 
 ### 3 trends
 1. **Beyblade arrives** (US launch 2002) — spinning tops swept schoolyards within months; "let it rip" battles at every recess table.
 2. **Yu-Gi-Oh! trading card game launches in North America** (2002; $17M in first months) — the new card game, anime on TV, duel disks on wish lists.
-3. **Salt Lake City Olympics** (Feb 2002) — men's AND women's hockey gold, the first in 50 years, voted the #1 moment in Canadian Winter Olympic history; playground hockey fever all winter.
+3. **Salt Lake City Olympics, afterglow** (Feb 2002) — men's AND women's hockey gold, the first in 50 years. Note: these happened during the *2001* anchor's winter (see above); for a 2002-anchored winter they'd be last year's legend, still echoing but not live.
 
 ---
 
@@ -65,7 +67,7 @@ Built on the earlier `playlist-research.md` (58 tracks, 2002–2009) plus fresh 
 
 ### 3 trends
 1. **Nintendo DS** (NA Nov 21, 2004; 1M sold in the US by Dec 21 — dubbed the "Tickle Me Elmo of 2004") — the Christmas-morning grail; every kid either got one or knew exactly who did.
-2. **The NHL lockout winter** — lockout began Sept 16, 2004; the entire 2004–05 season was cancelled Feb 16, 2005, and the Stanley Cup was engraved "2004–05 Season Not Played"; no Hockey Night in Canada all winter. A generation of Canadian kids experienced their first hockey-less winter.
+2. **The NHL lockout winter** — lockout began Sept 16, 2004; the entire 2004–05 season was cancelled Feb 16, 2005, and the Stanley Cup was engraved "2004–05 Season Not Played"; no Hockey Night in Canada all winter. CBC replaced it with **Movie Night in Canada**, hosted by Ron MacLean — adults complaining about no hockey while a familiar face introduces family films. A generation of Canadian kids experienced their first hockey-less winter.
 3. **Yu-Gi-Oh! competitive peak** — first official banlist (Aug 2004), *World Championship Tournament 2004* on GBA; the card game matured from playground fad to serious kid sport. (Heelys also arriving — 697K pairs sold in 2004 — bubbling toward their 2006 peak.)
 
 ---
@@ -148,13 +150,15 @@ Built on the earlier `playlist-research.md` (58 tracks, 2002–2009) plus fresh 
 2. **Nintendo DSi** (NA April 5, 2009) — cameras, DSiWare, matte finish; the DS upgrade cycle.
 3. **Bakugan still huge** — Toy of the Year momentum carried into 2009; Silly Bandz were just arriving in late 2009 (pre-explosion — per Mira's flag, the real craze was 2010, so in a 2009 winter they'd be an early stirrings detail, not the craze).
 
+*Live-winter note: the **Vancouver 2010 Winter Olympics** (Feb 12–28, 2010) happened DURING the 2009 anchor's school year — a home-soil Olympics, an enormous nationally shared winter event. For a 2009-anchored game this would be the defining live texture of the season.*
+
 ---
 
 ## Recommendation: 2004
 
 **Keep Avery's pick.** 2004 (winter 2004–05) is the most iconic anchor year for Snow War, and the evidence holds up under the popularity-not-release framing.
 
-First, 2004 is the only year with a **nationally shared, winter-shaped cultural event**: the NHL lockout. It's not just a date on a timeline — it unfolded live across the game's season (lockout begins September 2004, season officially cancelled February 2005), giving the winter a real dramatic arc no other year has: a hockey-less Canada, empty Saturday nights, the Stanley Cup engraved "2004–05 Season Not Played." For a game about a Canadian winter, that absence is the single most evocative texture available.
+First, 2004's **distinctive atmosphere**: the NHL lockout. It's not just a date on a timeline — it unfolded live across the game's season (lockout begins September 2004, season officially cancelled February 2005): a hockey-less Canada, empty Saturday nights, the Stanley Cup engraved "2004–05 Season Not Played," and CBC's *Movie Night in Canada* filling the void. (Correction per Mira's review: other anchor years had their own live national winter events — Salt Lake 2002 for the 2001 anchor, Vancouver 2010 for the 2009 anchor — so the lockout is 2004's *distinctive* texture, not proof of uniqueness. Its peculiar poetry: while professional hockey is missing, children are conducting the most important winter championship in the country on a schoolyard.)
 
 Second, the **trend mix is the densest of the decade**: the Nintendo DS Christmas (the "Tickle Me Elmo of 2004"), Yu-Gi-Oh! at its competitive peak (first banlist, World Championship year), and Heelys arriving — three playground-defining forces converging in one winter, with no single one drowning out the others the way the Wii (2006) or Beyblade (2003) dominated their years.
 
