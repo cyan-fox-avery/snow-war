@@ -4,7 +4,11 @@
 
 **Method note:** Weekly #1s come from two verified sources: the Billboard-based Canadian singles chart (physical sales — a weak proxy for airplay, used with caution) and the Mediabase Canadian rock airplay chart (a much better proxy for what was actually on the radio). Broader "what was hot" texture comes from top40-charts.com's weekly Canada Top 20 snapshots. Where sources are silent, weeks are marked as gaps — nothing is invented.
 
+**Reading key:** 🎵/🎸 = chart-verified #1s. Dated beats (🏒 📺 🎬 📊 etc.) = documented events with verified dates (premieres, launches, lockout milestones). Unmarked texture lines = soft ambient references — plausible period color, not documented occurrences. Per Mira's review: songs are lived atmosphere, not mandatory weekly script beats; curate the best details rather than scripting all 30 weeks into compulsory events.
+
 **Anchor rule (Avery's):** entries reflect what was *popular during* that week, not release dates.
+
+**Seasonal framing (per Mira's review):** the playable snowball war begins with first snow (late Nov/Dec) and ends when useful snow disappears (Mar/Apr melt). The dandelion epilogue is late April/May — real spring, with room to breathe. October is prelude.
 
 ---
 
@@ -27,7 +31,9 @@
 
 ---
 
-## October 2004 — the war begins
+## October 2004 — prelude: back-to-school rivalries
+
+*No snowball war yet — the playable war begins with first snow (late Nov/Dec). October is cultural backdrop and faction foreshadowing: friendships forming, rivalries simmering, the world the war will erupt into.*
 
 **Week of Oct 4**
 - 🎸 Velvet Revolver's "Fall to Pieces" takes #1 on rock radio — the older kids' anthem this week.
@@ -47,7 +53,7 @@
 
 ---
 
-## November 2004 — arms race
+## November 2004 — first snow: arms race
 
 **Week of Nov 1**
 - 🎵 "Awake in a Dream" #1, week two.
@@ -73,7 +79,7 @@
 
 ---
 
-## December 2004 — deep freeze
+## December 2004 — the freeze sets in
 
 **Week of Dec 6**
 - 🎵 "Awake in a Dream" #1, week seven — the Idol winner owns December.
@@ -93,7 +99,7 @@
 
 ---
 
-## January 2005 — the grind
+## January 2005 — deep freeze
 
 **Week of Jan 3**
 - 🎵 Back to school. Band Aid 20 #1 (through Jan 15) — the Christmas song overstays slightly, as Christmas songs do.
@@ -146,11 +152,19 @@
 
 **Week of Mar 21**
 - 🎵 **"Paper Rain" — Amanda Stott — takes #1** (Mar 19). A Canadian Idol-adjacent voice closes out the winter's chart story.
-- 🌱 Dandelions soon. Someone asks: "What do we play next?"
+- 🌧️ Slush deepens. Only the most stubborn forts still stand; the war is being fought on borrowed time.
 
 **Week of Mar 28**
 - 🎵 "Paper Rain" #1, week two.
-- 🌼 The melt completes. The forts are gone, the boundaries vanish, the snowbanks turn grey. Winter 2004–05 is over — remembered.
+- 🫠 The useful snow is gone. Forts slump into grey banks, the creek bed runs bank-full, gravel and mud return. The war doesn't end with a battle — it dissolves. Kids are already talking about bikes.
+
+---
+
+## Late April / May 2005 — epilogue 🌼
+
+*A time jump. The schoolyard is green. Avery's ending, protected exactly as conceived:*
+
+🌼 **Dandelions bloom in the schoolyard.** The forts melted weeks ago; the boundaries vanished with them. Someone asks: *"What do we play next?"* No triumphant victory screen — the winter is simply, completely over. Winter 2004–05 — remembered.
 
 ---
 
